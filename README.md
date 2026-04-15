@@ -1,22 +1,45 @@
-# Hi there! 👋 I'm Lucas
+<h1 align="center">Hi! 👋 I'm Lucas</h1>
 
-### 👨🏻‍💻 About Me
+<p align="center">
+  <i>Advanced CS Student • Tech Enthusiast • Chess Fan</i>
+</p>
 
-I am a 21-year-old advanced Computer Science student at UNLP, just 3 final exams away from earning my **University Programming Analyst** degree! I'm passionate about solving logical problems, understanding how systems work under the hood, and building tech solutions that tackle real-world challenges.
+<br>
 
-- 🎓 **Education:** Computer Science at UNLP.
-- 🔬 **Currently exploring:** Researching **RAG systems** at LIFIA and developing collaborative independent projects that cover the full software cycle.
-- 🌱 **Mindset:** I am highly motivated to keep growing, and I firmly believe there is no better way to learn and improve as a developer than through teamwork and collaborating with experienced peers.
+- 🎓 **Education:** CS student at UNLP — just 3 exams away from my **University Programming Analyst** degree
+- 🔬 **Currently:** Researching **RAG systems** at LIFIA & building independent team projects.
+- ⚙️ **The Drive:** I love solving logical problems and figuring out how systems work under the hood. 
+- 🌱 **Mindset:** I firmly believe the best way to learn and grow as a dev is through teamwork and collaboration.
+- ♟️ **Free time:** You'll probably find me playing some bullet games of chess.
+- 📧 **Contact me at:** [corbalanlucas04@gmail.com](mailto:corbalanlucas04@gmail.com)
 
-### 🛠️ Academic & Practical Experience
+<h2 align="center">🛠️ Tech Stack</h2>
 
-Throughout my degree and current projects, I have gained solid foundational experience in:
-- Web Application Development
-- Database Design
-- Software Requirements Elicitation & Analysis
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" width="40" alt="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40" width="40" alt="Java"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40" width="40" alt="HTML5"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40" width="40" alt="CSS3"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" width="40" alt="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40" width="40" alt="React"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" height="40" width="40" alt="Laravel"/>
+  <img src="https://cdn.simpleicons.org/livewire/4E56A6" height="40" width="40" alt="Livewire"/>
+  <img src="https://cdn.simpleicons.org/filament/F5B83D" height="40" width="40" alt="Filament"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="40" width="40" alt="MySQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="40" width="40" alt="Linux"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40" width="40" alt="Git"/>
+</p>
 
-### 📫 Let's Connect!
+<h2 align="center">📫 Socials</h2>
 
-I am always open to discussing tech, collaborating on projects, or a good game of chess.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-corbalan-saez/?locale=en-US)
+<p align="center">
+  <a href="https://www.linkedin.com/in/lucas-corbalan-saez/?locale=en-US" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/lucas.corbalann/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" alt="Instagram"/>
+  </a>
+  <a href="https://www.chess.com/member/lukita1212c" target="_blank">
+    <img src="https://cdn.simpleicons.org/chessdotcom/81B64C" height="30" width="40" alt="Chess.com"/>
+  </a>
+</p>
