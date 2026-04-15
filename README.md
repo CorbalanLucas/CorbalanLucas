@@ -39,7 +39,7 @@
   <a href="https://www.instagram.com/lucas.corbalann/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" alt="Instagram"/>
   </a>
-  <a href="https://www.chess.com/member/lukita1212c" target="_blank">
+  <a href="https://www.chess.com/member/lukita1212" target="_blank">
     <img src="https://cdn.simpleicons.org/chessdotcom/81B64C" height="30" width="40" alt="Chess.com"/>
   </a>
 </p>
