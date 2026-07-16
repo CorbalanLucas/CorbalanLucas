@@ -6,7 +6,7 @@
 
 <br>
 
-- 🎓 **Education:** CS student at UNLP — just 2 finals away from my University Programming Analyst degree
+- 🎓 **Education:** CS student at UNLP — just one final away from my University Programming Analyst degree
 - 🔬 **Currently:** Building projects with friends, learning every day.
 - ⚙️ **The Drive:** I enjoy making things and figuring out how systems work under the hood. 
 - 🌱 **Mindset:** I firmly believe the best way to learn and grow as a dev is through teamwork and collaboration.
