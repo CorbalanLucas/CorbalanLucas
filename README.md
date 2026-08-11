@@ -1,12 +1,12 @@
 <h1 align="center">Hi! I'm Lucas</h1>
 
 <p align="center">
-  <i>Advanced CS Student • Tech Enthusiast • Chess Fan</i>
+  <i>University Programming Analyst and Advanced CS Student • Tech Enthusiast • Chess Fan</i>
 </p>
 
 <br>
 
-- 🎓 **Education:** CS student at UNLP — just one final away from my University Programming Analyst degree
+- 🎓 **Education:** University Programming Analyst, currently pursuing a Bachelor's Degree in CS.
 - 🔬 **Currently:** Building projects with friends, learning every day.
 - ⚙️ **The Drive:** I enjoy making things and figuring out how systems work under the hood. 
 - 🌱 **Mindset:** I firmly believe the best way to learn and grow as a dev is through teamwork and collaboration.
