@@ -40,3 +40,8 @@
     <img src="https://img.shields.io/badge/Chess.com-81B64C?style=for-the-badge&logo=chessdotcom&logoColor=white"/>
   </a>
 </p>
+
+<h2 align="center">📊 Github stats</h2>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=CorbalanLucas&theme=dark&hide_border=true"/>
+</p>
