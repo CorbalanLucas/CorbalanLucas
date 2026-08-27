@@ -43,5 +43,5 @@
 
 <h2 align="center">📊 Github stats</h2>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=CorbalanLucas&theme=dark&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=CorbalanLucas&theme=dark&hide_border=true" />
 </p>
