@@ -11,7 +11,7 @@
 - If I have some free time, you'll probably find me playing some bullet games of chess.
 - **Contact me at:** [corbalanlucas04@gmail.com](mailto:corbalanlucas04@gmail.com)
 
-<h2 align="center">🛠️ Tech Stack</h2>
+<h2 align="center">Tech Stack</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
-<h2 align="center">📫 Socials</h2>
+<h2 align="center">Socials</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lucas-corbalan-saez/?locale=en-US" target="_blank">
@@ -39,7 +39,7 @@
   </a>
 </p>
 
-<h2 align="center">📊 Github stats</h2>
+<h2 align="center">Github stats</h2>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=CorbalanLucas&theme=dark&hide_border=true" />
 </p>
