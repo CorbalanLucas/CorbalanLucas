@@ -1,17 +1,15 @@
-<h1 align="center">Hi! I'm Lucas</h1>
+<h1 align="center">Hi there! I'm Lucas</h1>
 
 <p align="center">
-  <i>University Programming Analyst and Advanced CS Student • Tech Enthusiast • Chess Fan</i>
+  <i>Forward Deployed Engineer • Tech Enthusiast • Chess Fan</i>
 </p>
 
 <br>
 
-- 🎓 **Education:** University Programming Analyst, currently pursuing a Bachelor's Degree in CS.
-- 🔬 **Currently:** Building projects with friends, learning every day.
-- ⚙️ **The Drive:** I enjoy making things and figuring out how systems work under the hood. 
-- 🌱 **Mindset:** I firmly believe the best way to learn and grow as a dev is through teamwork and collaboration.
-- ♟️ **Free time:** You'll probably find me playing some bullet games of chess.
-- 📧 **Contact me at:** [corbalanlucas04@gmail.com](mailto:corbalanlucas04@gmail.com)
+- I'm currently working at MACHINES LIKE ME.
+- I hold a 3-year degree in programming and I'm now finishing a Bachelor's Degree in Computer Science at UNLP.
+- If I have some free time, you'll probably find me playing some bullet games of chess.
+- **Contact me at:** [corbalanlucas04@gmail.com](mailto:corbalanlucas04@gmail.com)
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
